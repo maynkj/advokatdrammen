@@ -1,1 +1,132 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1rem;
+	color: #29282d;
+}
+
+.container {
+	margin: 0 auto;
+  max-width: 60rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.header {
+	flex: 0 0 100%;
+	margin-bottom: 50px;
+	padding: 5px 1.25rem;
+	border-bottom: 1px solid #ffcc33;
+}
+
+main {
+	flex: 2;
+	margin-right: 6.25rem;
+}
+
+aside {
+	padding-left: 1.25rem;
+	border-left: 1px solid #ffcc33;
+}
+
+aside ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+aside li {
+	margin: 10px 0;
+}
+
+aside a {
+	color: inherit;
+	text-decoration: none;
+}
+
+aside a:hover {
+	font-weight: 600;
+}
+
+/* .header__nav {} */
+.header__linkList {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	align-items: flex-end;
+	list-style: none;
+}
+
+/* .header__link {} */
+
+.header__link:not(:last-child) {
+	margin-right: 0.9375rem;
+}
+
+.header__link.logo {
+	margin-right: auto;
+}
+
+.header__link a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.header__link:not(:first-child) a {
+	color: #ffcc33;
+}
+
+.header__logoLink {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.header__logo {
+	max-width: 15.625rem;
+}
+
+.header__companyName {
+	color: inherit;
+  font-size: 1.125rem;
+}
+
+.header__companyType {
+	font-size: 0.875rem;
+}
+
+.content {
+	/* margin-top:-15px;
+	padding-top:20px;
+	font-size:16px;
+	border-top-style:solid;
+	border-color:#ffcc33;
+	border-width:thin;
+	padding-bottom:20px;
+	text-align:center; */
+}
+
+.footer {
+	background-color: #263238;
+	color: white;
+}
+
+.contactBlock {
+	margin-bottom: 40px;
+}
+
+.privacyPolicyPage h1 {
+	font-size: 25px;
+}
+
+.privacyPolicyPage h2 {
+	font-size: 22px;
+}
