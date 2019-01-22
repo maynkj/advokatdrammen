@@ -22,9 +22,9 @@ body {
 
 .header {
 	flex: 0 0 100%;
-	margin-bottom: 50px;
-	padding: 5px 1.25rem;
-	border-bottom: 1px solid #ffcc33;
+	margin-bottom: 1.5625rem;
+	padding: 0.3125rem 1.25rem;
+	border-bottom: 0.0625rem solid #ffcc33;
 }
 
 main {
@@ -34,7 +34,7 @@ main {
 
 aside {
 	padding-left: 1.25rem;
-	border-left: 1px solid #ffcc33;
+	border-left: 0.0625rem solid #ffcc33;
 }
 
 aside ul {
@@ -44,7 +44,7 @@ aside ul {
 }
 
 aside li {
-	margin: 10px 0;
+	margin: 0.625rem 0;
 }
 
 aside a {
@@ -103,30 +103,19 @@ aside a:hover {
 	font-size: 0.875rem;
 }
 
-.content {
-	/* margin-top:-15px;
-	padding-top:20px;
-	font-size:16px;
-	border-top-style:solid;
-	border-color:#ffcc33;
-	border-width:thin;
-	padding-bottom:20px;
-	text-align:center; */
-}
-
 .footer {
 	background-color: #263238;
 	color: white;
 }
 
 .contactBlock {
-	margin-bottom: 40px;
+	margin-bottom: 2.5rem;
 }
 
 .privacyPolicyPage h1 {
-	font-size: 25px;
+	font-size: 1.5625rem;
 }
 
 .privacyPolicyPage h2 {
-	font-size: 22px;
+	font-size: 1.375rem;
 }
