@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 import logo from '../logo.gif';
 
@@ -8,7 +8,12 @@ const Header = () => (
     <nav className="header__nav">
       <ul className="header__linkList">
         <li className="header__link logo">
-          <Link to="/" className="header__logoLink">
+          <NavLink
+            exact
+            activeClassName="isActive"
+            className="header__logoLink"
+            to="/"
+          >
             <img className="header__logo" src={logo} alt="" />
             <span
               className="header__companyName"
@@ -16,27 +21,43 @@ const Header = () => (
               ADVOKATENE I BØRSGÅRDEN&nbsp;
               <span className="header__companyType">DA</span>
             </span>
-          </Link>
+          </NavLink>
         </li>
         <li className="header__link">
-          <Link to="/fri-rettshjelp">
+          <NavLink
+            exact
+            activeClassName="isActive"
+            to="/fri-rettshjelp"
+          >
             Fri rettshjelp
-          </Link>
+          </NavLink>
         </li>
         <li className="header__link">
-          <Link to="/priser">
+          <NavLink
+            exact
+            activeClassName="isActive"
+            to="/priser"
+          >
             Priser
-          </Link>
+          </NavLink>
         </li>
         <li className="header__link">
-          <Link to="/kontakt">
+          <NavLink
+            exact
+            activeClassName="isActive"
+            to="/kontakt"
+          >
             Kontakt oss
-          </Link>
+          </NavLink>
         </li>
         <li className="header__link">
-          <Link to="/personvern">
+          <NavLink
+            exact
+            activeClassName="isActive"
+            to="/personvern"
+          >
             Personvern
-          </Link>
+          </NavLink>
         </li>
       </ul>
     </nav>

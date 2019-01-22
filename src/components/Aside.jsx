@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 const pages = [
   {
@@ -76,9 +76,13 @@ const Aside = () => (
         {
           pages.map(({ path, name }) => (
             <li key={name}>
-              <Link to={path}>
+              <NavLink
+                exact
+                activeClassName="isActive"
+                to={path}
+              >
                 {name}
-              </Link>
+              </NavLink>
               {/* {name} */}
             </li>
           ))
