@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const pages = [
   {
@@ -75,10 +76,10 @@ const Aside = () => (
         {
           pages.map(({ path, name }) => (
             <li key={name}>
-              {/* <Link href={path}>
-                <a>{name}</a>
-              </Link> */}
-              {name}
+              <Link to={path}>
+                {name}
+              </Link>
+              {/* {name} */}
             </li>
           ))
         }
