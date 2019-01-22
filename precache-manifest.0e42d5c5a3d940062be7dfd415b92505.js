@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "15b82a606400f4e17ec4",
+    "revision": "cc5918d79b64c51697cd",
     "url": "/advokatdrammen/static/css/main.42252bd1.chunk.css"
   },
   {
-    "revision": "15b82a606400f4e17ec4",
-    "url": "/advokatdrammen/static/js/main.15b82a60.chunk.js"
+    "revision": "cc5918d79b64c51697cd",
+    "url": "/advokatdrammen/static/js/main.cc5918d7.chunk.js"
   },
   {
-    "revision": "b71b5e225bb6aa58968e",
-    "url": "/advokatdrammen/static/js/1.b71b5e22.chunk.js"
+    "revision": "2f4978507a9b9b468c49",
+    "url": "/advokatdrammen/static/js/1.2f497850.chunk.js"
   },
   {
     "revision": "e0336578789c2f95aaf0",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/advokatdrammen/static/media/logo.702ab702.gif"
   },
   {
-    "revision": "4afad1e83426f0605ad9a686134a920a",
+    "revision": "a498f9cb3228305621b3d075254205b1",
     "url": "/advokatdrammen/index.html"
   }
 ];
