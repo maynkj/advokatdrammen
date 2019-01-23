@@ -21,7 +21,7 @@ export default () => (
       Tidligere jobbet Gisle i Arbeidsretten som dommer og rettens nestleder. Han er også hovedforfatter på Kunnskapsforlagets
       Jusleksikon, som kom i 5. utgave 2017.
     <p>
-      Ta kontakt på mobil <a href="tel:48122740">481 22 740</a> eller e-post:<a href="https://web.archive.org/web/20180827230817/mailto:jon@arbeidsrettsadvokatene.no">jon@arbeidsrettsadvokatene.no</a>. </p>
+      Ta kontakt på mobil <a href="tel:48122740">481 22 740</a> eller e-post: <a href="https://web.archive.org/web/20180827230817/mailto:jon@arbeidsrettsadvokatene.no">jon@arbeidsrettsadvokatene.no</a>. </p>
     </p>
     <p>Advokatkontorets fagfelt strekker seg innen de fleste juridiske områder, samt eiendomsmegling. Advokatkontoret bistår så
       vel privatpersoner som større og mindre foretak. Vi satser på rask service, og en personlig og tett oppfølgning av våre
