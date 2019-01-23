@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/advokatdrammen/precache-manifest.f4bd677a8862dba85b43d9be1d35f77f.js"
+  "/advokatdrammen/precache-manifest.d68c7448a2d4892d99e5d1164a549937.js"
 );
 
 workbox.clientsClaim();
