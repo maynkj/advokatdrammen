@@ -1,7 +1,7 @@
 {
   "main.css": "/advokatdrammen/static/css/main.0a92e8e4.chunk.css",
-  "main.js": "/advokatdrammen/static/js/main.d9503d30.chunk.js",
-  "main.js.map": "/advokatdrammen/static/js/main.d9503d30.chunk.js.map",
+  "main.js": "/advokatdrammen/static/js/main.5bca9c1f.chunk.js",
+  "main.js.map": "/advokatdrammen/static/js/main.5bca9c1f.chunk.js.map",
   "static/js/1.45c83b28.chunk.js": "/advokatdrammen/static/js/1.45c83b28.chunk.js",
   "static/js/1.45c83b28.chunk.js.map": "/advokatdrammen/static/js/1.45c83b28.chunk.js.map",
   "runtime~main.js": "/advokatdrammen/static/js/runtime~main.e0336578.js",
@@ -9,6 +9,6 @@
   "static/media/logo.gif": "/advokatdrammen/static/media/logo.702ab702.gif",
   "static/css/main.0a92e8e4.chunk.css.map": "/advokatdrammen/static/css/main.0a92e8e4.chunk.css.map",
   "index.html": "/advokatdrammen/index.html",
-  "precache-manifest.d68c7448a2d4892d99e5d1164a549937.js": "/advokatdrammen/precache-manifest.d68c7448a2d4892d99e5d1164a549937.js",
+  "precache-manifest.e575c727ee49ca46eba0474b647c4ec6.js": "/advokatdrammen/precache-manifest.e575c727ee49ca46eba0474b647c4ec6.js",
   "service-worker.js": "/advokatdrammen/service-worker.js"
 }
