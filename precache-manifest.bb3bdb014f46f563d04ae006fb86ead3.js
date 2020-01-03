@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/advokatdrammen/static/media/logo.702ab702.gif"
   },
   {
-    "revision": "9bd988616ccb9d3e8e3e5905012364e7",
+    "revision": "259d8bcf38517981cfe9e237744cc96d",
     "url": "/advokatdrammen/index.html"
   }
 ];
