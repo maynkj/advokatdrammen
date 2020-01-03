@@ -18,8 +18,7 @@ const Header = () => (
             <span
               className="header__companyName"
             >
-              ADVOKATENE I BØRSGÅRDEN&nbsp;
-              <span className="header__companyType">DA</span>
+              ADVOKATENE I BØRSGÅRDEN
             </span>
           </NavLink>
         </li>

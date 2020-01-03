@@ -4,9 +4,8 @@ export default () => (
   <React.Fragment>
     <div className="privacyPolicyPage">
       <h1>
-        ADVOKATENE I BØRSGÅRDEN DA v/ADVOKATENE THORGEIER KJÆR OG JON GISLE , BRAGERNES TORG 13, 3017 DRAMMEN (BØRSGÅRDEN) - PERSONVERNERKLÆRING
+        ADVOKATENE I BØRSGÅRDEN v/ADVOKATENE THORGEIER KJÆR, BRAGERNES TORG 13, 3017 DRAMMEN (BØRSGÅRDEN) - PERSONVERNERKLÆRING
       </h1>
-
       <h2>
         1. Vår personvernerklæring
       </h2>

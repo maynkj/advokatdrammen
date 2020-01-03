@@ -1,5 +1,4 @@
-import React, { Fragment } from 'react';
-import Link from 'next/link';
+import React from 'react';
 
 const Footer = () => (
   <footer className="footer">
